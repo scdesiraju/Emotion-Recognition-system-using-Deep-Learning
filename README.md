@@ -27,9 +27,13 @@ The system architecture consists of modules for data collection, augmentation, t
 
 ### Libraries Used
 Keras: for building and training neural network models.
+
 scikit-learn: for machine learning algorithms and evaluation.
+
 OpenCV (cv2): for image processing and computer vision tasks.
+
 NumPy: for numerical computation and array manipulation.
+
 TensorFlow: for creating and deploying machine learning models.
 
 ## Results
